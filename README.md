@@ -1,2 +1,3 @@
 # Three-and-ARjs
-WEb Augumented experiment with AR.js and THREE.js
+My marker was trained using this github link "https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html"
+ AR.js and THREE.js
